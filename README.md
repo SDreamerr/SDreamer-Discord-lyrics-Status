@@ -59,16 +59,6 @@ cd discord-lyrics-status
 npm install
 ```
 
-## Configuration
-
-1. Copy the example config:
-
-   ```bash
-   cp .env.example .env
-   ```
-
-2. Fill in your values (Discord token, etc.) in `.env`.
-
 ## Usage
 
 ```bash
