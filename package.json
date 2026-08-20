@@ -1,0 +1,11 @@
+{
+  "name": "discord-spotify-karaoke",
+  "version": "1.0.0",
+  "description": "Spotify Selfbot for Discord",
+  "main": "index.js",
+  "type": "module",
+  "dependencies": {
+    "discord.js-selfbot-v13": "https://npmjs.org",
+    "undici": "^6.21.1"
+  }
+}
