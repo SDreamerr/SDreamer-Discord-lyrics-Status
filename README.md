@@ -17,13 +17,6 @@ A Node.js app that displays the currently playing lyric line as your Discord sta
 - [Usage](#usage)
 - [License](#license)
 
-## Features
-
-- Automatic detection of the currently playing track
-- Fetches lyrics and shows the current line
-- Updates your Discord status live as the track plays
-- Simple configuration via a `.env` file
-
 ## Requirements
 
 - Node.js `>= 24`
