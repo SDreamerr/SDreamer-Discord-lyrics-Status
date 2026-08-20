@@ -8,7 +8,6 @@ A Node.js app that displays the currently playing lyric line as your Discord sta
 
 ## Table of Contents
 
-- [Features](#features)
 - [Requirements](#requirements)
 - [Installation](#installation)
   - [NixOS](#nixos)
